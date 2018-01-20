@@ -45,7 +45,7 @@
                 /* List of emoticons used in the regular expression */
                 var emoticons = {
         /* :..: */ named: /:([a-z0-9A-Z_-]+):/,
-        /* :-)  */ simple_smile: /:-?\)/g,
+        /* :-)  */ slight_smile: /:-?\)/g,
         /* :-D  */ smiley: /[:;]-?d/gi,
         /* ;-)  */ wink: /;-?\)/g,
         /* :-(  */ worried: /:-?\(/g,
